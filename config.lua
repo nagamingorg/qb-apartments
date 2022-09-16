@@ -1,15 +1,15 @@
 Apartments = {}
-Apartments.Starting = true
+Apartments.Starting = false
 Apartments.SpawnOffset = 30
 Apartments.Locations = {
     ["apartment1"] = {
         name = "apartment1",
-        label = "South Rockford Drive",
+        label = "Bayview Lodge",
         coords = {
-            enter = vector4(-667.02, -1105.24, 14.63, 242.32),
+            enter = vector4(-685.45, 5762.82, 17.07, 246.49),
         },
         polyzoneBoxData = {
-            heading = 245,
+            heading = 247,
             minZ = 13.5,
             maxZ = 16.0,
             debug = false,
@@ -21,12 +21,12 @@ Apartments.Locations = {
     },
     ["apartment2"] = {
         name = "apartment2",
-        label = "Morningwood Blvd",
+        label = "South Seas",
         coords = {
-            enter = vector4(-1288.52, -430.51, 35.15, 124.81),
+            enter = vector4(-154.49, 6433.14, 31.92, 136.32),
         },
         polyzoneBoxData = {
-            heading = 124,
+            heading = 136,
             minZ = 34.0,
             maxZ = 37.0,
             debug = false,
@@ -38,12 +38,12 @@ Apartments.Locations = {
     },
     ["apartment3"] = {
         name = "apartment3",
-        label = "Integrity Way",
+        label = "Chumash Plaza",
         coords = {
-            enter = vector4(269.73, -640.75, 42.02, 249.07),
+            enter = vector4(-3143.06, 1137.47, 21.48, 65.01),
         },
         polyzoneBoxData = {
-            heading = 250,
+            heading = 65,
             minZ = 40,
             maxZ = 43.5,
             debug = false,
@@ -55,12 +55,12 @@ Apartments.Locations = {
     },
     ["apartment4"] = {
         name = "apartment4",
-        label = "Tinsel Towers",
+        label = "Marina Dr.",
         coords = {
-            enter = vector4(-619.29, 37.69, 43.59, 181.03),
+            enter = vector4(1941.14, 3842.21, 35.51, 300.04),
         },
         polyzoneBoxData = {
-            heading = 180,
+            heading = 300,
             minZ = 41.0,
             maxZ = 45.5,
             debug = false,
@@ -72,12 +72,12 @@ Apartments.Locations = {
     },
     ["apartment5"] = {
         name = "apartment5",
-        label = "Fantastic Plaza",
+        label = "Eastern Motel",
         coords = {
-            enter = vector4(291.517, -1078.674, 29.405, 270.75),
+            enter = vector4(341.28, 2615.58, 44.67, 209.01),
         },
         polyzoneBoxData = {
-            heading = 270,
+            heading = 209,
             minZ = 28.5,
             maxZ = 31.0,
             debug = false,
